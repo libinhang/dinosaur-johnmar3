@@ -5,7 +5,7 @@
       "setup": "",
       "run": "ls",
       "input": "",
-      "output": ".*\\.(jpg|jpeg|png|gif|tif|bmp|eps|psd|xcf|ai|raw)",
+      "output": ".*\\.(jpg|jpeg|png|gif|tif|bmp|eps|psd|xcf|ai|raw|webp)",
       "comparison": "regex",
       "timeout": 10,
       "points": null

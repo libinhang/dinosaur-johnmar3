@@ -8,7 +8,7 @@
       "output": ".*\\.(jpg|jpeg|png|gif|tif|bmp|eps|psd|xcf|ai|raw|webp)",
       "comparison": "regex",
       "timeout": 10,
-      "points": null
+      "points": 100
     }
   ]
 }
